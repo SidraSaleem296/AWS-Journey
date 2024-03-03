@@ -12,7 +12,7 @@ Welcome to the ultimate collection of AWS certification study resources! Whether
 - [AWS Solution Architect Notes](https://github.com/vaquarkhan/Aws-Solution-Architect-Notes/)
 - [AWS Certified Solutions Architect - Professional Study Guide](https://github.com/acantril/aws-sa-pro)
 - [AWS Certified Solutions Architect Associate (SAA-C02) Study Guide](https://github.com/keenanromain/AWS-SAA-C02-Study-Guide)
-- [AWS Certified Solutions Architect Professional Study Guide](https://github.com/aandr26/AWS-SAP-C01-Study-Guide)
+- [AWS Certified Solutions Architect Professional Study Guide (Rev)](https://github.com/aandr26/AWS-SAP-C01-Study-Guide)
 
 ## 📺 Video Tutorials
 
