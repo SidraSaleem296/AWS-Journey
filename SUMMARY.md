@@ -2,16 +2,7 @@
 
 * [Welcome](README.md)
 
-## Getting Started
+## AWS Generative AI
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & Media](basics/images-and-media.md)
-* [Interactive Blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Objectives](aws-generative-ai/objectives.md)
+* [Delivering Customer Value with Generative AI](aws-generative-ai/delivering-customer-value-with-generative-ai.md)
