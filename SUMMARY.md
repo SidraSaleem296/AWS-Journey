@@ -6,3 +6,4 @@
 
 * [Objectives](aws-generative-ai/objectives.md)
 * [Delivering Customer Value with Generative AI](aws-generative-ai/delivering-customer-value-with-generative-ai.md)
+* [Page](aws-generative-ai/page.md)

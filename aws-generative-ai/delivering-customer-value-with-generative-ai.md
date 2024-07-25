@@ -25,7 +25,23 @@ Customers need to tackle three key considerations:
 2. **How to build**
 3. **How to scale**
 
-* AWS surveys and interviews identify seven key challenges across these three questions.
+AWS surveys and interviews identify seven key challenges across these three questions:
+
+**What to Build**
+
+1. **Technology**
+2. **Early Adoption**
+
+**How to Build**
+
+3. **Data**
+4. **Architectural Options**
+5. **Legal and Cybersecurity**
+
+**How to Scale**
+
+6. **Day 2 Operations**
+7. **Organizational Change Management**
 
 **🚀 Time for Change is Now**
 
