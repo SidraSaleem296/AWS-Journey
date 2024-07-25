@@ -1,33 +1,28 @@
-[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-yellow?logo=amazon-aws&style=flat-square)](https://aws.amazon.com/certification/)
-[![AWS Certified Developer](https://img.shields.io/badge/AWS-Certified%20Developer-orange?logo=amazon-aws&style=flat-square)](https://aws.amazon.com/certification/)
-[![AWS Certified SysOps Administrator](https://img.shields.io/badge/AWS-Certified%20SysOps%20Administrator-blue?logo=amazon-aws&style=flat-square)](https://aws.amazon.com/certification/)
-[![AWS Certified Security - Specialty](https://img.shields.io/badge/AWS-Certified%20Security%20Specialty-green?logo=amazon-aws&style=flat-square)](https://aws.amazon.com/certification/)
+---
+cover: https://gitbookio.github.io/onboarding-template-images/header.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-# AWS Certification Study Resources 📚
+# Welcome
 
-Welcome to the ultimate collection of AWS certification study resources! Whether you're preparing for the AWS Certified Solutions Architect, AWS Certified Developer, or any other AWS certification, you'll find valuable materials here to help you succeed.
+Welcome to the GitBook Starter Template! Here' you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
 
-## 📘 Study Guides
+You'll see some of the best parts of GitBook in action - and find help on how you can turn this template into your own.
 
-- [AWS Solution Architect Notes](https://github.com/vaquarkhan/Aws-Solution-Architect-Notes/)
-- [AWS Certified Solutions Architect - Professional Study Guide](https://github.com/acantril/aws-sa-pro)
-- [AWS Certified Solutions Architect Associate (SAA-C02) Study Guide](https://github.com/keenanromain/AWS-SAA-C02-Study-Guide)
-- [AWS Certified Solutions Architect Professional Study Guide (Rev)](https://github.com/aandr26/AWS-SAP-C01-Study-Guide)
+### Jump right in
 
-## 📺 Video Tutorials
-
-- [AWS Solutions Architect Associate - Full Course](https://www.youtube.com/watch?v=5gnoVjpfWxU)
-
-## 📄 Articles and Documentation
-
-- [AWS Serverless Application Repository](https://noise.getoto.net/tag/aws-serverless-application-repository/)
-- [AWS Certification Paths](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf)
-
-
-## 🚀 Getting Started
-
-To begin your AWS certification journey, start by exploring the resources listed above. Whether you prefer written guides, video tutorials, or official documentation, there's something here for everyone.
-
-Feel free to contribute by adding more resources or suggesting improvements through pull requests!
-
-Happy studying! 🎉
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td><a href=".gitbook/assets/1.png">1.png</a></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td><a href=".gitbook/assets/2.png">2.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td><a href=".gitbook/assets/3.png">3.png</a></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
