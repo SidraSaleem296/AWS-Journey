@@ -15,6 +15,8 @@
   * [Elastic Load Balancer](solution-architect-notes/services/elastic-load-balancer/README.md)
     * [Features](solution-architect-notes/services/elastic-load-balancer/features.md)
   * [CloudFront](solution-architect-notes/services/cloudfront.md)
+  * [EC2](solution-architect-notes/services/ec2/README.md)
+    * [Features](solution-architect-notes/services/ec2/features.md)
 
 ## AWS Devops
 
