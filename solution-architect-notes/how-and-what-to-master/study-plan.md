@@ -2,90 +2,206 @@
 
 #### Day-by-Day Study Plan
 
-**Week 1: Core AWS Services and Basic Concepts**
+**Day 1: Compute Fundamentals**
 
-**Day 1: Compute**
+* **Theory (3 hours)**
+  * Amazon EC2: Instances, AMIs, EBS, Security Groups, Auto Scaling
+  * AWS Lambda: Serverless compute
+  * Amazon Lightsail: Simplified compute services for small-scale applications
+* **MCQs (2.5 hours)**
+  * Practice 50 questions on EC2, Lambda, Lightsail
+* **Project**
+  * Set up an EC2 instance with a web server and deploy a Lambda function
 
-* **Theory (3 hours)**: Amazon EC2, Instances, AMIs, EBS, Security Groups, Auto Scaling.
-* **MCQs (2.5 hours)**: 50 questions on Compute services.
-* **Portfolio Project**: Launch a multi-tier application using EC2 instances, setting up Auto Scaling and Security Groups.
+**Day 2: Advanced Compute Services**
 
-**Day 2: Storage**
+* **Theory (3 hours)**
+  * Amazon ECS: Docker containers
+  * Amazon EKS: Managed Kubernetes
+  * AWS Fargate: Serverless compute for containers
+* **MCQs (2.5 hours)**
+  * Practice 50 questions on ECS, EKS, Fargate
+* **Project**
+  * Deploy a containerized application using ECS and Fargate
 
-* **Theory (3 hours)**: Amazon S3, Amazon EBS, Amazon EFS, AWS Storage Gateway, Amazon FSx.
-* **MCQs (2.5 hours)**: 50 questions on Storage services.
+**Day 3: Storage Services**
 
-**Day 3: Databases**
+* **Theory (3 hours)**
+  * Amazon S3: Buckets, storage classes, lifecycle, versioning, cross-region replication
+  * Amazon EBS: Volume types, snapshots
+  * Amazon EFS: Scalable file storage
+* **MCQs (2.5 hours)**
+  * Practice 50 questions on S3, EBS, EFS
+* **Project**
+  * Configure S3 bucket with versioning and lifecycle policies
 
-* **Theory (3 hours)**: Amazon RDS, Amazon Aurora, Amazon DynamoDB, Amazon Redshift.
-* **MCQs (2.5 hours)**: 50 questions on Database services.
+**Day 4: Hybrid Storage Solutions**
 
-**Day 4: Databases (Continued)**
+* **Theory (3 hours)**
+  * AWS Storage Gateway: Hybrid cloud storage
+  * Amazon FSx: Managed file storage (FSx for Windows File Server, FSx for Lustre)
+* **MCQs (2.5 hours)**
+  * Practice 50 questions on Storage Gateway and FSx
+* **Project**
+  * Set up a Storage Gateway and configure file sharing
 
-* **Theory (3 hours)**: Amazon ElastiCache, Amazon Neptune, Amazon DocumentDB.
-* **MCQs (2.5 hours)**: 50 questions on Database services (continued).
+**Day 5: Database Services**
 
-**Day 5: Networking and Content Delivery**
+* **Theory (3 hours)**
+  * Amazon RDS: Managed relational databases (MySQL, PostgreSQL, SQL Server, MariaDB, Oracle)
+  * Amazon Aurora: High-performance relational database
+  * Amazon DynamoDB: Fully managed NoSQL database
+* **MCQs (2.5 hours)**
+  * Practice 50 questions on RDS, Aurora, DynamoDB
+* **Project**
+  * Deploy an RDS instance and connect it to an application
 
-* **Theory (3 hours)**: Amazon VPC, AWS Direct Connect, AWS Transit Gateway.
-* **MCQs (2.5 hours)**: 50 questions on Networking services.
-* **Portfolio Project**: Configure a VPC with public and private subnets, NAT gateways, and VPC peering.
+**Day 6: Advanced Databases**
 
-**Day 6: Networking and Content Delivery (Continued)**
+* **Theory (3 hours)**
+  * Amazon Redshift: Managed data warehousing
+  * Amazon ElastiCache: In-memory caching (Redis, Memcached)
+  * Amazon Neptune: Graph database service
+  * Amazon DocumentDB: Managed MongoDB-compatible database
+* **MCQs (2.5 hours)**
+  * Practice 50 questions on Redshift, ElastiCache, Neptune, DocumentDB
+* **Project**
+  * Set up a Redis cluster with ElastiCache
 
-* **Theory (3 hours)**: Elastic Load Balancing, Amazon Route 53, AWS Global Accelerator, AWS PrivateLink, Amazon CloudFront.
-* **MCQs (2.5 hours)**: 50 questions on Networking services (continued).
+**Day 7: Networking Basics**
 
-**Day 7: Security, Identity, and Compliance**
+* **Theory (3 hours)**
+  * Amazon VPC: Subnets, route tables, NAT gateways, VPC peering, VPC endpoints, security groups, network ACLs
+  * AWS Direct Connect: Dedicated network connection
+* **MCQs (2.5 hours)**
+  * Practice 50 questions on VPC and Direct Connect
+* **Project**
+  * Create a VPC with public and private subnets
 
-* **Theory (3 hours)**: AWS IAM, AWS Organizations, AWS KMS, AWS Shield, AWS WAF.
-* **MCQs (2.5 hours)**: 50 questions on Security services.
+**Day 8: Advanced Networking**
 
-**Week 2: Advanced AWS Services and Practical Applications**
+* **Theory (3 hours)**
+  * AWS Transit Gateway: Centralized connectivity
+  * Elastic Load Balancing (ELB): ALB, NLB, CLB
+  * Amazon Route 53: DNS and domain registration
+  * AWS Global Accelerator: Network performance optimization
+  * AWS PrivateLink: Securely access services hosted on AWS
+* **MCQs (2.5 hours)**
+  * Practice 50 questions on Transit Gateway, ELB, Route 53, Global Accelerator, PrivateLink
+* **Project**
+  * Configure an Application Load Balancer for a web application
 
-**Day 8: Security, Identity, and Compliance (Continued)**
+**Day 9: Content Delivery and Security**
 
-* **Theory (3 hours)**: AWS Secrets Manager, AWS Certificate Manager, Amazon GuardDuty, AWS Config, AWS CloudTrail, AWS Inspector.
-* **MCQs (2.5 hours)**: 50 questions on Security services (continued).
-* **Portfolio Project**: Implement security best practices for an EC2 instance, including IAM roles, Security Groups, and encryption.
+* **Theory (3 hours)**
+  * Amazon CloudFront: CDN service
+  * AWS IAM: Users, roles, policies, MFA
+  * AWS KMS: Key management and encryption
+* **MCQs (2.5 hours)**
+  * Practice 50 questions on CloudFront, IAM, KMS
+* **Project**
+  * Set up CloudFront distribution for a static website
 
-**Day 9: Management and Governance**
+**Day 10: Security and Compliance**
 
-* **Theory (3 hours)**: AWS CloudFormation, AWS CloudWatch, AWS Systems Manager, AWS Trusted Advisor.
-* **MCQs (2.5 hours)**: 50 questions on Management services.
+* **Theory (3 hours)**
+  * AWS Shield: DDoS protection
+  * AWS WAF: Web Application Firewall
+  * AWS Secrets Manager: Secrets management
+  * AWS Certificate Manager (ACM): SSL/TLS certificates
+  * Amazon GuardDuty: Threat detection
+  * AWS Config: Resource configuration management
+  * AWS CloudTrail: Logging and monitoring of API calls
+  * AWS Inspector: Automated security assessments
+* **MCQs (2.5 hours)**
+  * Practice 50 questions on Shield, WAF, Secrets Manager, ACM, GuardDuty, Config, CloudTrail, Inspector
+* **Project**
+  * Implement WAF rules to protect a web application
 
-**Day 10: Management and Governance (Continued)**
+**Day 11: Monitoring and Governance**
 
-* **Theory (3 hours)**: AWS Control Tower, AWS Service Catalog, AWS License Manager, AWS OpsWorks.
-* **MCQs (2.5 hours)**: 50 questions on Management services (continued).
+* **Theory (3 hours)**
+  * AWS CloudFormation: Infrastructure as code
+  * AWS CloudWatch: Monitoring and logging
+  * AWS Systems Manager: Operations management
+  * AWS Trusted Advisor: Best practice recommendations
+  * AWS Control Tower: Multi-account management and governance
+  * AWS Service Catalog: Managed catalogs of IT services
+  * AWS License Manager: Software license management
+  * AWS OpsWorks: Configuration management using Chef and Puppet
+* **MCQs (2.5 hours)**
+  * Practice 50 questions on CloudFormation, CloudWatch, Systems Manager, Trusted Advisor, Control Tower, Service Catalog, License Manager, OpsWorks
+* **Project**
+  * Create a CloudFormation stack to deploy an application
 
-**Day 11: Application Integration**
+**Day 12: Application Integration**
 
-* **Theory (3 hours)**: Amazon SQS, Amazon SNS, AWS Step Functions, Amazon MQ, Amazon EventBridge.
-* **MCQs (2.5 hours)**: 50 questions on Application Integration services.
-* **Portfolio Project**: Develop a serverless application using Lambda, SQS, and SNS for asynchronous processing.
+* **Theory (3 hours)**
+  * Amazon SQS: Message queuing service
+  * Amazon SNS: Pub/sub messaging service
+  * AWS Step Functions: Workflow orchestration
+  * Amazon MQ: Managed message broker service
+  * Amazon EventBridge: Event bus for event-driven architectures
+* **MCQs (2.5 hours)**
+  * Practice 50 questions on SQS, SNS, Step Functions, EventBridge
+* **Project**
+  * Create an SQS queue and integrate it with a Lambda function
 
-**Day 12: Analytics**
+**Day 13: Analytics and Machine Learning**
 
-* **Theory (3 hours)**: Amazon Kinesis, AWS Glue, Amazon Athena, Amazon QuickSight, AWS Lake Formation.
-* **MCQs (2.5 hours)**: 50 questions on Analytics services.
+* **Theory (3 hours)**
+  * Amazon Kinesis: Real-time data streaming
+  * AWS Glue: Managed ETL service
+  * Amazon Athena: Interactive query service
+  * Amazon QuickSight: Business intelligence service
+  * AWS Lake Formation: Data lake setup and management
+  * Amazon SageMaker: Machine learning model building
+  * AWS Rekognition: Image and video analysis
+  * Amazon Comprehend: Natural language processing
+  * Amazon Polly: Text-to-speech service
+  * Amazon Lex: Conversational AI (chatbots)
+* **MCQs (2.5 hours)**
+  * Practice 50 questions on Kinesis, Glue, Athena, QuickSight, Lake Formation, SageMaker, Rekognition, Comprehend, Polly, Lex
+* **Project**
+  * Set up a Kinesis data stream and process data using Lambda
 
-**Day 13: Machine Learning**
+**Day 14: Migration, Developer Tools, and Cost Management**
 
-* **Theory (3 hours)**: Amazon SageMaker, AWS Rekognition, Amazon Comprehend, Amazon Polly, Amazon Lex.
-* **MCQs (2.5 hours)**: 50 questions on Machine Learning services.
-* **Portfolio Project**: Build a data pipeline using Kinesis, Lambda, and S3 for real-time data processing and analysis.
+* **Theory (3 hours)**
+  * AWS Migration Hub: Track migrations
+  * AWS Database Migration Service (DMS): Database migrations
+  * AWS Snowball: Physical data transfer appliance
+  * AWS DataSync: Automated data transfer service
+  * AWS CodeCommit: Source control service
+  * AWS CodeBuild: Continuous integration service
+  * AWS CodeDeploy: Automated application deployment
+  * AWS CodePipeline: Continuous delivery
+  * AWS Cloud9: Cloud-based IDE
+  * AWS Cost Explorer: Cost visualization and analysis
+  * AWS Budgets: Budget setting and tracking
+  * AWS Pricing Calculator: Cost estimation
+* **MCQs (2.5 hours)**
+  * Practice 50 questions on Migration Hub, DMS, Snowball, DataSync, CodeCommit, CodeBuild, CodeDeploy, CodePipeline, Cloud9, Cost Explorer, Budgets, Pricing Calculator
+* **Project**
+  * Use DMS to migrate a database to AWS
 
-**Day 14: Migration and Transfer**
+**Day 15: Review and Practice Exam**
 
-* **Theory (3 hours)**: AWS Migration Hub, AWS Database Migration Service, AWS Snowball, AWS DataSync.
-* **MCQs (2.5 hours)**: 50 questions on Migration services.
+* **Theory (3 hours)**
+  * Review all topics and projects
+  * Focus on weak areas identified during previous days
+* **MCQs (2.5 hours)**
+  * Practice a full-length practice exam
+* **Project**
+  * Finalize and document a comprehensive portfolio project that integrates multiple services (e.g., a web application with EC2, RDS, S3, CloudFront, and IAM)
 
-**Day 15: Developer Tools and Cost Management**
+**Continuous Learning and Revision**
 
-* **Theory (3 hours)**: AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, AWS CodePipeline, AWS Cloud9, AWS Cost Explorer, AWS Budgets, AWS Pricing Calculator.
-* **MCQs (2.5 hours)**: 50 questions on Developer Tools and Cost Management.
-* **Portfolio Project**: Automate the deployment of an application using CodePipeline and CodeDeploy, with cost monitoring using Cost Explorer.
+* **After Day 15:**
+  * **Review Notes**: Spend 1 hour daily reviewing your notes and project implementations.
+  * **Practice Exams**: Take full-length practice exams to identify weak areas.
+  * **AWS Webinars and Blogs**: Stay updated with new AWS services and features.
+  * **Community Participation**: Engage in AWS forums and study groups for additional support and learning.
 
 #### Tips for Effective Study
 

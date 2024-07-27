@@ -13,11 +13,15 @@
 * [How And What To Master](solution-architect-notes/how-and-what-to-master/README.md)
   * [Study Plan](solution-architect-notes/how-and-what-to-master/study-plan.md)
 * [Services](solution-architect-notes/services/README.md)
+  * [AWS Lambda](solution-architect-notes/services/aws-lambda/README.md)
+    * [Features](solution-architect-notes/services/aws-lambda/features.md)
+    * [Practice MCQs](solution-architect-notes/services/aws-lambda/practice-mcqs.md)
   * [Elastic Load Balancer](solution-architect-notes/services/elastic-load-balancer/README.md)
     * [Features](solution-architect-notes/services/elastic-load-balancer/features.md)
   * [CloudFront](solution-architect-notes/services/cloudfront.md)
   * [EC2](solution-architect-notes/services/ec2/README.md)
     * [Features](solution-architect-notes/services/ec2/features.md)
+    * [Practice MCQs](solution-architect-notes/services/ec2/practice-mcqs.md)
 
 ## AWS Devops
 
