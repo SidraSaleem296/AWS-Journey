@@ -10,7 +10,8 @@
 
 ## Solution Architect Notes
 
-* [How And What To Master](solution-architect-notes/how-and-what-to-master.md)
+* [How And What To Master](solution-architect-notes/how-and-what-to-master/README.md)
+  * [Study Plan](solution-architect-notes/how-and-what-to-master/study-plan.md)
 * [Services](solution-architect-notes/services/README.md)
   * [Elastic Load Balancer](solution-architect-notes/services/elastic-load-balancer/README.md)
     * [Features](solution-architect-notes/services/elastic-load-balancer/features.md)
