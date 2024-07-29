@@ -13,6 +13,12 @@
 * [How And What To Master](solution-architect-notes/how-and-what-to-master/README.md)
   * [Study Plan](solution-architect-notes/how-and-what-to-master/study-plan.md)
 * [Services](solution-architect-notes/services/README.md)
+  * [AWS EKS](solution-architect-notes/services/aws-eks/README.md)
+    * [Practice MCQs](solution-architect-notes/services/aws-eks/practice-mcqs.md)
+    * [Features](solution-architect-notes/services/aws-eks/features.md)
+  * [AWS ECS](solution-architect-notes/services/aws-ecs/README.md)
+    * [Features](solution-architect-notes/services/aws-ecs/features.md)
+    * [Practice MCQs](solution-architect-notes/services/aws-ecs/practice-mcqs.md)
   * [AWS Lightsail](solution-architect-notes/services/aws-lightsail/README.md)
     * [Features](solution-architect-notes/services/aws-lightsail/features.md)
     * [Practice MCQs](solution-architect-notes/services/aws-lightsail/practice-mcqs.md)
@@ -25,6 +31,9 @@
   * [EC2](solution-architect-notes/services/ec2/README.md)
     * [Features](solution-architect-notes/services/ec2/features.md)
     * [Practice MCQs](solution-architect-notes/services/ec2/practice-mcqs.md)
+* [AWS Fargate](solution-architect-notes/aws-fargate/README.md)
+  * [Features](solution-architect-notes/aws-fargate/features.md)
+  * [Practice MCQs](solution-architect-notes/aws-fargate/practice-mcqs.md)
 
 ## AWS Devops
 
