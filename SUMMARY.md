@@ -40,6 +40,9 @@
   * [AWS EBS](solution-architect-notes/services/aws-ebs/README.md)
     * [Features](solution-architect-notes/services/aws-ebs/features.md)
     * [Practice MCQs](solution-architect-notes/services/aws-ebs/practice-mcqs.md)
+  * [AWS EFS](solution-architect-notes/services/aws-efs/README.md)
+    * [Features](solution-architect-notes/services/aws-efs/features.md)
+    * [Practice MCQs](solution-architect-notes/services/aws-efs/practice-mcqs.md)
 
 ## AWS Devops
 
