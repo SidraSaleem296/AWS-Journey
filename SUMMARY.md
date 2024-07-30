@@ -37,6 +37,9 @@
   * [AWS S3](solution-architect-notes/services/aws-s3/README.md)
     * [Features](solution-architect-notes/services/aws-s3/features.md)
     * [Practice MCQs](solution-architect-notes/services/aws-s3/practice-mcqs.md)
+  * [AWS EBS](solution-architect-notes/services/aws-ebs/README.md)
+    * [Features](solution-architect-notes/services/aws-ebs/features.md)
+    * [Practice MCQs](solution-architect-notes/services/aws-ebs/practice-mcqs.md)
 
 ## AWS Devops
 
