@@ -34,6 +34,9 @@
   * [AWS Fargate](solution-architect-notes/services/aws-fargate/README.md)
     * [Features](solution-architect-notes/services/aws-fargate/features.md)
     * [Practice MCQs](solution-architect-notes/services/aws-fargate/practice-mcqs.md)
+  * [AWS S3](solution-architect-notes/services/aws-s3/README.md)
+    * [Features](solution-architect-notes/services/aws-s3/features.md)
+    * [Practice MCQs](solution-architect-notes/services/aws-s3/practice-mcqs.md)
 
 ## AWS Devops
 
