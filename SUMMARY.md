@@ -31,9 +31,9 @@
   * [EC2](solution-architect-notes/services/ec2/README.md)
     * [Features](solution-architect-notes/services/ec2/features.md)
     * [Practice MCQs](solution-architect-notes/services/ec2/practice-mcqs.md)
-* [AWS Fargate](solution-architect-notes/aws-fargate/README.md)
-  * [Features](solution-architect-notes/aws-fargate/features.md)
-  * [Practice MCQs](solution-architect-notes/aws-fargate/practice-mcqs.md)
+  * [AWS Fargate](solution-architect-notes/services/aws-fargate/README.md)
+    * [Features](solution-architect-notes/services/aws-fargate/features.md)
+    * [Practice MCQs](solution-architect-notes/services/aws-fargate/practice-mcqs.md)
 
 ## AWS Devops
 
